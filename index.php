@@ -98,3 +98,11 @@ function soma($a , $b)
 	return $a + $b;
 }
 ?>
+=======
+
+echo "<strong>Olá mundo</strong>";
+
+echo "Eu sou o localhost e servidor";
+
+?>
+
